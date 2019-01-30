@@ -1,10 +1,10 @@
 <?php
 	/*
 	Plugin Name: nome do plugin aqui
-	Plugin URI: powertic.com
+	Plugin URI: pagina-plugin.com
 	Description: descricao do plugin aqui
 	Author: nome do autor aqui
-	Author: URI: powertic.com
+	Author: URI: pagina-representante-plugin.com
 	Version: 0.1
 	*/
 
